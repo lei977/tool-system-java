@@ -29,5 +29,6 @@
 		<module>cloud-service-api</module>
 		<module>cloud-service-data</module>
 		<module>cloud-service-web</module>
+		<module>cloud-service-quick4j</module>
 	</modules>
 </project>
